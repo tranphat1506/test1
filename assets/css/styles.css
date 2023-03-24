@@ -48,13 +48,15 @@ table {
 }
 
 @font-face {
-    font-family: 'Paytone';
-    src: url('../font/PaytoneOne-Regular.ttf');
-}
-@font-face {
     font-family: 'Roboto';
     src: url('../font/Ubuntu-Medium.ttf');
 }
+
+@font-face {
+    font-family: 'Paytone';
+    src: url('../font/PaytoneOne-Regular.ttf');
+}
+
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 10px;
