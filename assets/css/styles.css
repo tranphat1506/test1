@@ -49,7 +49,7 @@ table {
 
 @font-face {
     font-family: 'Roboto';
-    src: url('../font/Ubuntu-Medium.ttf');
+    src: url('../font/Roboto/Roboto-Medium.ttf');
 }
 
 @font-face {
@@ -215,16 +215,16 @@ body{
     margin-right: 30px;
 }
 .specify-item{
-    font-family: 'Paytone';
+    font-weight: bold;
 }
 .item--on-sale{
-    color: #ff3f3f !important;
+    color: #e43838 !important;
 }
 .item path{
     fill: #4b4b4b;
 }
 .item--on-sale path{
-    fill: #ff3f3f;
+    fill: #e43838;
 }
 .navbar__last .items-container .item svg{
     width: 16px;
